@@ -36,7 +36,7 @@ set(
 
 // Hosts
 
-host('exponit.com')
+host('mas.exponit.com')
     ->set('remote_user', 'exponit')
     ->set('deploy_path', '~/mas')
     ->set('port', 22999)
